@@ -1,0 +1,15 @@
+body{
+    background-color: black;
+}
+#game{
+    border:1px solid white;
+    margin-right: 100px;
+}
+h2{
+    color: white;
+}
+
+#game1{
+    border:1px solid white;
+    margin-left: 40px;
+}
